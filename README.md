@@ -3,13 +3,19 @@ An up-to-date collection of task-agnostic principles and foundational questions 
 
 ## Latent Encoders
 
-**Diffusion Transformers with Representation Autoencoders** \
+✨**Diffusion Transformers with Representation Autoencoders** \
 Boyang Zheng, Nanye Ma, Shengbang Tong, Saining Xie, [arXiv 2510.11690](https://arxiv.org/abs/2510.11690v1)
 
- **Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models** \
+🔥**Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models** \
 Jingfeng Yao, Bin Yang, Xinggang Wang,  [CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Yao_Reconstruction_vs._Generation_Taming_Optimization_Dilemma_in_Latent_Diffusion_Models_CVPR_2025_paper.pdf),  **\[lightningDiT\]**
 
+🔥**Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think** \
+Sihyun Yu, Sangkyung Kwak, Huiwon Jang, Jongheon Jeong, Jonathan Huang, Jinwoo Shin, Saining Xie, [ICLR 2025](https://arxiv.org/abs/2410.06940), **\[REPA\]**
+
 ## Sampling Temperature
+
+✨**Mitigating the Noise Shift for Denoising Generative Models via Noise Awareness Guidance** \
+Jincheng Zhong, Boyuan Jiang, Xin Tao, Pengfei Wan, Kun Gai, Mingsheng Long, [arXiv 2510.12497](https://arxiv.org/abs/2510.12497)
 
 **Visual Generation Without Guidance** \
 Huayu Chen, Kai Jiang, Kaiwen Zheng, Jianfei Chen, Hang Su, Jun Zhu, [ICML 2025](https://openreview.net/forum?id=gM6aboVgTO)
@@ -17,18 +23,20 @@ Huayu Chen, Kai Jiang, Kaiwen Zheng, Jianfei Chen, Hang Su, Jun Zhu, [ICML 2025]
 **Domain Guidance: A Simple Transfer Approach for Pre-trained Diffusion Models**\
 Jincheng Zhong, XiangCheng Zhang, Jianmin Wang, Mingsheng Long, [ICLR 2025](https://openreview.net/forum?id=PplM2kDrl3)
 
-**Guiding a Diffusion Model with a Bad Version of Itself**\
+🔥**Guiding a Diffusion Model with a Bad Version of Itself**\
 Tero Karras, Miika Aittala, Tuomas Kynkäänniemi, Jaakko Lehtinen, Timo Aila, Samuli Laine, [NeurIPS 2024](https://openreview.net/forum?id=bg6fVPVs3s)
 
 ## Fast Generation
+✨**Scalable GANs with Transformers** \
+Sangeek Hyun, MinKyu Lee, Jae-Pil Heo, [arXiv 2509.24935](https://arxiv.org/abs/2509.24935)
 
-**Mean Flows for One-step Generative Modeling** \
+🔥**Mean Flows for One-step Generative Modeling** \
 Zhengyang Geng, Mingyang Deng, Xingjian Bai, J. Zico Kolter, Kaiming He, [NeurIPS 2025](https://arxiv.org/abs/2505.13447)
 
-**Simplifying, Stabilizing and Scaling Continuous-Time Consistency Models**\
+🔥**Simplifying, Stabilizing and Scaling Continuous-Time Consistency Models**\
 Cheng Lu, and Yang Song, [ICLR 2025](https://arxiv.org/abs/2410.11081)
 
-**One Step Diffusion via Shortcut Models**\
+🔥**One Step Diffusion via Shortcut Models**\
 Kevin Frans, Danijar Hafner, Sergey Levine, Pieter Abbeel, [ICLR 2025](https://openreview.net/forum?id=OlzB6LnXcS)
 
 ## Post Training
