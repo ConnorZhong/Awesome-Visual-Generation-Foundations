@@ -1,5 +1,19 @@
 # Awesome Visual Generation Foundations
-An up-to-date collection of task-agnostic principles and foundational questions in visual generation (mainly diffusion).
+
+## Overview
+
+This *awesome list* curates high-quality resources on visual generation (with a strong focus on diffusion), especially **task-agnostic fundamentals** and core principles.
+
+**Inclusion priorities**
+- **Peer-reviewed** papers from top conferences/journals.
+- Works with **high community traction** (broad citations, active re-implementations, thorough comparisons, lively discussions).
+
+**Maintenance**
+- We aim for **daily updates** (new entries, taxonomy tweaks, link fixes).
+
+If you find this useful, please **⭐ star the repo**.  
+Suggestions are welcome—open an Issue or submit a PR with vetted, high-signal resources.
+
 
 ## Latent Encoders
 
