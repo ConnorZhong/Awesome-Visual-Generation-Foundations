@@ -15,7 +15,7 @@ If you find this useful, please **⭐ star the repo**.
 Suggestions are welcome—open an Issue or submit a PR with vetted, high-signal resources.
 
 
-## Latent Encoders
+## Visual Tokenizer
 ✨**Latent Diffusion Model without Variational Autoencoder** \
 Minglei Shi, Haolin Wang, Wenzhao Zheng, Ziyang Yuan, Xiaoshi Wu, Xintao Wang, Pengfei Wan, Jie Zhou, Jiwen Lu. [arXiv 2510.15301](https://arxiv.org/abs/2510.15301)
 
@@ -29,7 +29,7 @@ Ge Wu, Shen Zhang, Ruijing Shi, Shanghua Gao, Zhenyuan Chen, Lei Wang, Zhaowei C
 Xingjian Leng, Jaskirat Singh, Yunzhong Hou, Zhenchang Xing, Saining Xie, Liang Zheng. [ICCV 2025](https://arxiv.org/abs/2504.10483)
 
 🔥**Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models** \
-Jingfeng Yao, Bin Yang, Xinggang Wang.  [CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Yao_Reconstruction_vs._Generation_Taming_Optimization_Dilemma_in_Latent_Diffusion_Models_CVPR_2025_paper.pdf),  **\[lightningDiT\]**
+Jingfeng Yao, Bin Yang, Xinggang Wang.  [CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Yao_Reconstruction_vs._Generation_Taming_Optimization_Dilemma_in_Latent_Diffusion_Models_CVPR_2025_paper.pdf),  **\[VA-VAE\]**
 
 🔥**Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think** \
 Sihyun Yu, Sangkyung Kwak, Huiwon Jang, Jongheon Jeong, Jonathan Huang, Jinwoo Shin, Saining Xie. [ICLR 2025](https://arxiv.org/abs/2410.06940), **\[REPA\]**
@@ -63,11 +63,19 @@ Kevin Frans, Danijar Hafner, Sergey Levine, Pieter Abbeel. [ICLR 2025](https://o
 
 ## Post Training
 
+**Flow-GRPO: Training Flow Matching Models via Online RL** \
+Jie Liu, Gongye Liu, Jiajun Liang, Yangguang Li, Jiaheng Liu, Xintao Wang, Pengfei Wan, Di Zhang, Wanli Ouyang. [NeurIPS 2025](https://arxiv.org/abs/2505.05470)
+
 **Direct Discriminative Optimization: Your Likelihood-Based Visual Generative Model is Secretly a GAN Discriminator** \
 Kaiwen Zheng, Yongxin Chen, Huayu Chen, Guande He, Ming-Yu Liu, Jun Zhu, Qinsheng Zhang. [ICML 2025](https://openreview.net/forum?id=OJ6WE7F8tK)
 
 **Diffusion Tuning: Transferring Diffusion Models via Chain of Forgetting** \
 Jincheng Zhong, Xingzhuo Guo, Jiaxiang Dong, Mingsheng Long. [NeurIPS 2024](https://openreview.net/forum?id=S98OzJD3jn)
+
+## Training Tricks
+
+**On the Importance of Noise Scheduling for Diffusion Models** \
+Ting Chen. [arXiv 2301.10972](https://arxiv.org/abs/2301.10972)
 
 ## Miscellaneous
 
