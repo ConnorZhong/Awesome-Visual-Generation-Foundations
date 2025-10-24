@@ -63,6 +63,9 @@ Kevin Frans, Danijar Hafner, Sergey Levine, Pieter Abbeel. [ICLR 2025](https://o
 
 ## Post Training
 
+✨**DiffusionNFT: Online Diffusion Reinforcement with Forward Process** \
+Kaiwen Zheng, Huayu Chen, Haotian Ye, Haoxiang Wang, Qinsheng Zhang, Kai Jiang, Hang Su, Stefano Ermon, Jun Zhu, Ming-Yu Liu. [arXiv 2509.16117](https://arxiv.org/abs/2509.16117)
+
 **Flow-GRPO: Training Flow Matching Models via Online RL** \
 Jie Liu, Gongye Liu, Jiajun Liang, Yangguang Li, Jiaheng Liu, Xintao Wang, Pengfei Wan, Di Zhang, Wanli Ouyang. [NeurIPS 2025](https://arxiv.org/abs/2505.05470)
 
