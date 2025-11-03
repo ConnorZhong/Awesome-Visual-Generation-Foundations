@@ -14,6 +14,10 @@ This *awesome list* curates high-quality resources on visual generation (with a 
 If you find this useful, please **⭐ star the repo**.  
 Suggestions are welcome—open an Issue or submit a PR with vetted, high-signal resources.
 
+## Advanced Technical Report
+
+✨**Video models are zero-shot learners and reasoners** \
+Thaddäus Wiedemer, Yuxuan Li, Paul Vicol, Shixiang Shane Gu, Nick Matarese, Kevin Swersky, Been Kim, Priyank Jaini, Robert Geirhos. [arXiv 2509.20328](https://arxiv.org/abs/2509.20328),  **\[Veo 3\]**
 
 ## Visual Tokenizer
 ✨**Latent Diffusion Model without Variational Autoencoder** \
