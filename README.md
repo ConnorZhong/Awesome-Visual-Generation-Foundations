@@ -86,5 +86,8 @@ Ting Chen. [arXiv 2301.10972](https://arxiv.org/abs/2301.10972)
 
 ## Miscellaneous
 
+**On the Closed-Form of Flow Matching: Generalization Does Not Arise from Target Stochasticity** \
+Quentin Bertrand, Anne Gagneux, Mathurin Massias, Rémi Emonet. [NeurIPS 2025](https://openreview.net/forum?id=kVz9uvqUna)
+
 **Is Noise Conditioning Necessary for Denoising Generative Models?** \
 Qiao Sun, Zhicheng Jiang, Hanhong Zhao, Kaiming He. [ICML 2025](https://openreview.net/pdf?id=pTSWi6RTtJ)
