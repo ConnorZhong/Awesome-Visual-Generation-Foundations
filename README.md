@@ -14,6 +14,8 @@ This *awesome list* curates high-quality resources on visual generation (with a 
 If you find this useful, please **⭐ star the repo**.  
 Suggestions are welcome—open an Issue or submit a PR with vetted, high-signal resources.
 
+Currently, this repo includes 29 papers.
+
 ## Advanced Technical Report
 
 ✨**Video models are zero-shot learners and reasoners** \
@@ -58,8 +60,6 @@ Felix Koulischer, Johannes Deleu, Gabriel Raya, Thomas Demeester, Luca Ambrogion
 🔥**Guiding a Diffusion Model with a Bad Version of Itself**\
 Tero Karras, Miika Aittala, Tuomas Kynkäänniemi, Jaakko Lehtinen, Timo Aila, Samuli Laine. [NeurIPS 2024](https://openreview.net/forum?id=bg6fVPVs3s)
 
-
-
 ## Fast Generation
 ✨**Scalable GANs with Transformers** \
 Sangeek Hyun, MinKyu Lee, Jae-Pil Heo. [arXiv 2509.24935](https://arxiv.org/abs/2509.24935)
@@ -94,6 +94,12 @@ Kaiwen Zheng, Yongxin Chen, Huayu Chen, Guande He, Ming-Yu Liu, Jun Zhu, Qinshen
 
 **Diffusion Tuning: Transferring Diffusion Models via Chain of Forgetting** \
 Jincheng Zhong, Xingzhuo Guo, Jiaxiang Dong, Mingsheng Long. [NeurIPS 2024](https://openreview.net/forum?id=S98OzJD3jn)
+
+## Architechtures
+
+**InfinityStar: Unified Spacetime AutoRegressiveModeling for Visual Generation** \
+Jinlai Liu, Jian Han, Bin Yan, Wuhui, Fengda Zhu, Xing Wang, Yi Jiang, Binyue Peng, Zehuan Yuan. [NeurIPS 2025](https://openreview.net/forum?id=JcEqp4aPmb)
+
 
 ## Training Tricks
 
