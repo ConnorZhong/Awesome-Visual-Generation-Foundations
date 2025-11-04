@@ -108,5 +108,8 @@ Quentin Bertrand, Anne Gagneux, Mathurin Massias, Rémi Emonet. [NeurIPS 2025](h
 **Scaling Diffusion Transformers Efficiently via $\mu$P** \
 Chenyu Zheng, Xinyu Zhang, Rongzhen Wang, Wei Huang, Zhi Tian, Weilin Huang, Jun Zhu, Chongxuan Li. [NeurIPS 2025](https://openreview.net/forum?id=VfIOdGiBAv)
 
+**REPA Works Until It Doesn’t: Early-Stopped, Holistic Alignment Supercharges Diffusion Training** \
+Ziqiao Wang, Wangbo Zhao, Yuhao Zhou, Zekai Li, Zhiyuan Liang, Mingjia Shi, Xuanlei Zhao, Pengfei Zhou, Kaipeng Zhang, Zhangyang Wang, Kai Wang, Yang You. [NeurIPS 2025](https://openreview.net/forum?id=HK96GI5s7G)
+
 **Is Noise Conditioning Necessary for Denoising Generative Models?** \
 Qiao Sun, Zhicheng Jiang, Hanhong Zhao, Kaiming He. [ICML 2025](https://openreview.net/pdf?id=pTSWi6RTtJ)
