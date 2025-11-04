@@ -67,6 +67,9 @@ Kevin Frans, Danijar Hafner, Sergey Levine, Pieter Abbeel. [ICLR 2025](https://o
 
 ## Inference Time Scaling
 
+**Inference-Time Scaling for Flow Models via Stochastic Generation and Rollover Budget Forcing** \
+Jaihoon Kim, TaeHoon Yoon, Jisung Hwang, Minhyuk Sung. [NeurIPS 2025](https://openreview.net/forum?id=quY3zRPalR)
+
 **Scaling Inference Time Compute for Diffusion Models** \
 Nanye Ma, Shangyuan Tong, Haolin Jia, Hexiang Hu, Yu-Chuan Su, Mingda Zhang, Xuan Yang, Yandong Li, Tommi Jaakkola, Xuhui Jia, Saining Xie. [CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Ma_Scaling_Inference_Time_Compute_for_Diffusion_Models_CVPR_2025_paper.pdf)
 
