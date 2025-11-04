@@ -65,6 +65,11 @@ Cheng Lu, and Yang Song. [ICLR 2025](https://arxiv.org/abs/2410.11081)
 🔥**One Step Diffusion via Shortcut Models**\
 Kevin Frans, Danijar Hafner, Sergey Levine, Pieter Abbeel. [ICLR 2025](https://openreview.net/forum?id=OlzB6LnXcS)
 
+## Inference Time Scaling
+
+**Scaling Inference Time Compute for Diffusion Models** \
+Nanye Ma, Shangyuan Tong, Haolin Jia, Hexiang Hu, Yu-Chuan Su, Mingda Zhang, Xuan Yang, Yandong Li, Tommi Jaakkola, Xuhui Jia, Saining Xie. [CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Ma_Scaling_Inference_Time_Compute_for_Diffusion_Models_CVPR_2025_paper.pdf)
+
 ## Post Training
 
 ✨**DiffusionNFT: Online Diffusion Reinforcement with Forward Process** \
