@@ -97,7 +97,7 @@ Jincheng Zhong, Xingzhuo Guo, Jiaxiang Dong, Mingsheng Long. [NeurIPS 2024](http
 
 ## Architechtures
 
-**InfinityStar: Unified Spacetime AutoRegressiveModeling for Visual Generation** \
+**InfinityStar: Unified Spacetime AutoRegressive Modeling for Visual Generation** \
 Jinlai Liu, Jian Han, Bin Yan, Wuhui, Fengda Zhu, Xing Wang, Yi Jiang, Binyue Peng, Zehuan Yuan. [NeurIPS 2025](https://openreview.net/forum?id=JcEqp4aPmb)
 
 
