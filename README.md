@@ -14,7 +14,7 @@ This *awesome list* curates high-quality resources on visual generation (with a 
 If you find this useful, please **⭐ star the repo**.  
 Suggestions are welcome—open an Issue or submit a PR with vetted, high-signal resources.
 
-Currently, this repo includes 29 papers.
+Currently, this repo includes 30 papers.
 
 ## Advanced Technical Report
 
@@ -110,6 +110,9 @@ Ting Chen. [arXiv 2301.10972](https://arxiv.org/abs/2301.10972)
 
 **On the Closed-Form of Flow Matching: Generalization Does Not Arise from Target Stochasticity** \
 Quentin Bertrand, Anne Gagneux, Mathurin Massias, Rémi Emonet. [NeurIPS 2025](https://openreview.net/forum?id=kVz9uvqUna)
+
+**Is Your Diffusion Model Actually Denoising?** \
+Daniel Pfrommer, Zehao Dou, Christopher Scarvelis, Max Simchowitz, Ali Jadbabaie. [NeurIPS 2025](https://openreview.net/forum?id=Z2lWGBx2v2)
 
 **Scaling Diffusion Transformers Efficiently via $\mu$P** \
 Chenyu Zheng, Xinyu Zhang, Rongzhen Wang, Wei Huang, Zhi Tian, Weilin Huang, Jun Zhu, Chongxuan Li. [NeurIPS 2025](https://openreview.net/forum?id=VfIOdGiBAv)
