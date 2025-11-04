@@ -43,14 +43,22 @@ Sihyun Yu, Sangkyung Kwak, Huiwon Jang, Jongheon Jeong, Jonathan Huang, Jinwoo S
 ✨**Mitigating the Noise Shift for Denoising Generative Models via Noise Awareness Guidance** \
 Jincheng Zhong, Boyuan Jiang, Xin Tao, Pengfei Wan, Kun Gai, Mingsheng Long. [arXiv 2510.12497](https://arxiv.org/abs/2510.12497)
 
+**Feedback Guidance of Diffusion Models** \
+Felix Koulischer, Florian Handke, Johannes Deleu, Thomas Demeester, Luca Ambrogioni. [NeurIPS 2025](https://openreview.net/forum?id=8ySOcf7UpM)
+
 **Visual Generation Without Guidance** \
 Huayu Chen, Kai Jiang, Kaiwen Zheng, Jianfei Chen, Hang Su, Jun Zhu. [ICML 2025](https://openreview.net/forum?id=gM6aboVgTO)
 
 **Domain Guidance: A Simple Transfer Approach for Pre-trained Diffusion Models**\
 Jincheng Zhong, XiangCheng Zhang, Jianmin Wang, Mingsheng Long. [ICLR 2025](https://openreview.net/forum?id=PplM2kDrl3)
 
+**Dynamic Negative Guidance of Diffusion Models** \
+Felix Koulischer, Johannes Deleu, Gabriel Raya, Thomas Demeester, Luca Ambrogioni. [ICLR 2025](https://openreview.net/forum?id=6p74UyAdLa)
+
 🔥**Guiding a Diffusion Model with a Bad Version of Itself**\
 Tero Karras, Miika Aittala, Tuomas Kynkäänniemi, Jaakko Lehtinen, Timo Aila, Samuli Laine. [NeurIPS 2024](https://openreview.net/forum?id=bg6fVPVs3s)
+
+
 
 ## Fast Generation
 ✨**Scalable GANs with Transformers** \
