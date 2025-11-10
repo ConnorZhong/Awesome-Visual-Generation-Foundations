@@ -45,6 +45,9 @@ Sihyun Yu, Sangkyung Kwak, Huiwon Jang, Jongheon Jeong, Jonathan Huang, Jinwoo S
 ✨**Mitigating the Noise Shift for Denoising Generative Models via Noise Awareness Guidance** \
 Jincheng Zhong, Boyuan Jiang, Xin Tao, Pengfei Wan, Kun Gai, Mingsheng Long. [arXiv 2510.12497](https://arxiv.org/abs/2510.12497)
 
+**Towards Understanding the Mechanisms of Classifier-Free Guidance** \
+Xiang Li, Rongrong Wang, Qing Qu. [NeurIPS 2025](https://openreview.net/forum?id=bRAm7A02Qm)
+
 **Feedback Guidance of Diffusion Models** \
 Felix Koulischer, Florian Handke, Johannes Deleu, Thomas Demeester, Luca Ambrogioni. [NeurIPS 2025](https://openreview.net/forum?id=8ySOcf7UpM)
 
