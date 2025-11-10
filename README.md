@@ -14,7 +14,7 @@ This *awesome list* curates high-quality resources on visual generation (with a 
 If you find this useful, please **⭐ star the repo**.  
 Suggestions are welcome—open an Issue or submit a PR with vetted, high-signal resources.
 
-Currently, this repo includes 30 papers.
+Currently, this repo includes 31 papers.
 
 ## Advanced Technical Report
 
